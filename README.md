@@ -114,38 +114,4 @@ scientist = {
 
 ---
 
-<details>
-<summary>🐍 <b>How to set up the Contribution Snake</b></summary>
 
-1. Create a new file in your repo at `.github/workflows/snake.yml`
-2. Paste this content:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: sedatkacar56
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-3. Go to **Actions** tab → run the workflow manually once → done! 🎉
-
-</details>
