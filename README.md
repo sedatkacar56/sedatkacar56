@@ -84,7 +84,6 @@ scientist = {
 
 ![Snake animation](https://github.com/sedatkacar56/sedatkacar56/blob/output/github-contribution-grid-snake-dark.svg)
 
-> *To activate the snake, see setup instructions below ↓*
 
 </div>
 
