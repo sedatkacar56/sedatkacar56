@@ -82,7 +82,7 @@ scientist = {
 
 <div align="center">
 
-![Snake animation](https://github.com/sedatkacar56/sedatkacar56/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/sedatkacar56/sedatkacar56/blob/output/github-contribution-grid-snake.svg)
 
 
 </div>
