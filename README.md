@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C851&center=true&vCenter=true&width=750&lines=Bismillahirrahmanirrahim!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0D6EFD&center=true&vCenter=true&width=750&lines=BISMILLAHIRRAHMANIRRAHIM!)
 
 
 # 🧬 Hey, I'm Sedat! &nbsp; `Like you, trying to be good servant of Allah, but failing, but keep repeating!`
