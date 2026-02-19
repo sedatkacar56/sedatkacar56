@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0D6EFD&center=true&vCenter=true&width=750&lines=%F0%9F%8C%B9+BISMILLAHIRRAHMANIRRAHIM+%F0%9F%8C%B9)
 
-# 🧬 Hey, I'm Sedat! &nbsp; `Like you, trying to be good servant of Allah, but failing, but keep repeating!`
+# 🧬 Hey, I'm Sedat! &nbsp; `Like you, trying to be good servant of Allah (SWT), but failing, but keep repeating!`
 
 ### *"Single-cell & spatial transcriptomics — from clustering to biological clarity."* 🔬
 
