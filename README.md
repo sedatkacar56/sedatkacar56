@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧬 Hey, I'm Sedat! &nbsp; `sedatkacar56`
+# 🧬 Hey, I'm Sedat! &nbsp; `Like you, trying to be good servant of Allah, but failing, but keep repeating!`
 
 ### *"Single-cell & spatial transcriptomics — from clustering to biological clarity."* 🔬
 
