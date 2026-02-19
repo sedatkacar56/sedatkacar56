@@ -1,16 +1,151 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sedatkacar56/sedatkacar56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🧬 Hey, I'm Sedat! &nbsp; `sedatkacar56`
 
-Here are some ideas to get you started:
+### *"Decoding life, one sequence at a time."* 🔬
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C4B4&center=true&vCenter=true&width=600&lines=Bioinformatics+Scientist+🧬;Genome+Explorer+🔭;Data+Whisperer+📊;Turning+ATCG+into+Insights+✨)
+
+</div>
+
+---
+
+## 🧫 About Me
+
+```python
+scientist = {
+    "name"      : "Sedat Kacar",
+    "username"  : "sedatkacar56",
+    "role"      : "Bioinformatics Scientist 🧬",
+    "interests" : ["Genomics", "Transcriptomics", "ML in Biology", "Multi-omics"],
+    "motto"     : "If it can be sequenced, it can be understood.",
+    "currently" : "Turning raw reads into biological stories 📖",
+    "fun_fact"  : "I debug code AND DNA 🐛"
+}
+```
+
+---
+
+## 🔬 Tech Stack & Tools
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Bioinformatics Tools**
+
+![Bioconductor](https://img.shields.io/badge/Bioconductor-3492C7?style=for-the-badge&logoColor=white)
+![Biopython](https://img.shields.io/badge/Biopython-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+![Snakemake](https://img.shields.io/badge/Snakemake-00C4B4?style=for-the-badge&logoColor=white)
+![Nextflow](https://img.shields.io/badge/Nextflow-23AA62?style=for-the-badge&logoColor=white)
+![Galaxy](https://img.shields.io/badge/Galaxy-2C3E50?style=for-the-badge&logoColor=white)
+
+**Data & ML**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4DBBD5?style=for-the-badge&logoColor=white)
+
+**Dev & Cloud**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sedatkacar56&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C4B4&icon_color=00C4B4&text_color=FFFFFF" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sedatkacar56&theme=radical&hide_border=true&background=0D1117&ring=00C4B4&fire=FF6B6B&currStreakLabel=00C4B4" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedatkacar56&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C4B4&text_color=FFFFFF" width="48%" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://github.com/sedatkacar56/sedatkacar56/blob/output/github-contribution-grid-snake-dark.svg)
+
+> *To activate the snake, see setup instructions below ↓*
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-sedatkacar56-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sedatkacar56)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sedatkacar56)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sedatkacar56@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+🧬 &nbsp; `A` `T` `C` `G` &nbsp; — &nbsp; the four letters that wrote all of life &nbsp; — &nbsp; `A` `T` `C` `G` &nbsp; 🧬
+
+*Thanks for visiting! May your p-values always be significant.* 😄
+
+![Profile views](https://komarev.com/ghpvc/?username=sedatkacar56&color=00C4B4&style=flat-square)
+
+</div>
+
+---
+
+<details>
+<summary>🐍 <b>How to set up the Contribution Snake</b></summary>
+
+1. Create a new file in your repo at `.github/workflows/snake.yml`
+2. Paste this content:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: sedatkacar56
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+3. Go to **Actions** tab → run the workflow manually once → done! 🎉
+
+</details>
