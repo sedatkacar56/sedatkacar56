@@ -14,14 +14,20 @@
 
 ```python
 scientist = {
-    "name"      : "Sedat Kacar",
-    "username"  : "sedatkacar56",
-    "role"      : "Bioinformatics Scientist 🧬",
-    "interests" : ["Genomics", "Transcriptomics", "ML in Biology", "Multi-omics"],
-    "motto"     : "If it can be sequenced, it can be understood.",
-    "currently" : "Turning raw reads into biological stories 📖",
-    "fun_fact"  : "I debug code AND DNA 🐛"
+    "name"       : "Sedat Kacar, PhD",
+    "username"   : "sedatkacar56",
+    "role"       : "Computational Biologist & Single-Cell Systems Thinker 🧬",
+    "location"   : "Indiana University School of Medicine",
+    "focus"      : ["Single-cell RNA-seq", "Spatial Transcriptomics", 
+                    "Biomarker Discovery", "Multi-omics Integration"],
+    "tools"      : ["R/Seurat", "Python/Flask", "HPC/SLURM", "Nextflow"],
+    "mindset"    : "Reproducible pipelines over black-box magic.",
+    "currently"  : "Turning noisy cellular data into structured biological insight 📊",
+    "side_quest" : "Building automation tools & exploring deterministic AI systems",
+    "motto"      : "If the data is clean and the logic is sound, the biology will speak.",
+    "fun_fact"   : "I debug Seurat objects and life decisions with equal intensity 🐛"
 }
+
 ```
 
 ---
