@@ -2,9 +2,12 @@
 
 # 🧬 Hey, I'm Sedat! &nbsp; `sedatkacar56`
 
-### *"Decoding life, one sequence at a time."* 🔬
+### *"Single-cell & spatial transcriptomics — from clustering to biological clarity."* 🔬
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C4B4&center=true&vCenter=true&width=600&lines=Bioinformatics+Scientist+🧬;Genome+Explorer+🔭;Data+Whisperer+📊;Turning+ATCG+into+Insights+✨)
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C4B4&center=true&vCenter=true&width=750&lines=Single-Cell+%26+Spatial+Transcriptomics+🧬;Cell+Annotation+%7C+Biomarker+Discovery+🔍;Reproducible+Pipelines+%7C+HPC+Systems+⚙️;From+Cellular+Noise+to+Biological+Clarity+📊)
+
 
 </div>
 
