@@ -1,5 +1,7 @@
 <div align="center">
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0D6EFD&center=true&vCenter=true&width=750&lines=%F0%9F%8C%B9+BISMILLAHIRRAHMANIRRAHIM!+%F0%9F%8C%B9)
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0D6EFD&center=true&vCenter=true&width=750&lines=BISMILLAHIRRAHMANIRRAHIM!)
 
 
